@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, Helvetica 'Courier New', Courier, monospace, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px
+    
+}
+
+h1 {color: #777;
+    background: #ebebeb;
+
+}
+p {color: #777;
+    background: #ebebeb;
+
+}footer {
+    position:relative;
+    
+    left:0;
+    right:0;
+    bottom: 100%;
+}
+header {
+    margin: 0%;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+content {
+    width: 1024px;
+    margin: 0 auto;
+
+}
+#headline,
+#linkpage { float: left;
+
+}
